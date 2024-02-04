@@ -6,12 +6,12 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
 
 ### Terminy i tematy zajęć
 
-<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 568px">
+<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 564px">
 <colgroup>
 <col style="width: 25.2px">
 <col style="width: 46.2px">
-<col style="width: 248.2px">
-<col style="width: 248.2px">
+<col style="width: 246.2px">
+<col style="width: 246.2px">
 </colgroup>
 <tbody>
   <tr>
