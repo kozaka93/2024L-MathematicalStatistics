@@ -11,7 +11,6 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
 <col style="width: 25.2px">
 <col style="width: 46.2px">
 <col style="width: 246.2px">
-<col style="width: 246.2px">
 </colgroup>
 <tbody>
   <tr>
@@ -20,43 +19,43 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
     <td>LABORATORIUM (środa, 10:15)</td>
   </tr>
    <tr>
+    <td>1</td>
     <td>10.04</td>
-    <td></td>
     <td>Wybrane rozkłady prawdopodobieństwa</td>
   </tr>
    <tr>
+    <td>2</td>
     <td>17.04</td>
-    <td></td>
     <td>Statystyka opisowa</td>
   </tr>
   <tr>
+    <td>3</td>
     <td>24.04</td>
-    <td></td>
     <td>Statystyka opisowa 2</td>
   </tr>
  <tr>
+    <td>4</td>
     <td>08.05</td>
-    <td></td>
     <td>Estymacja punktowa i przedziałowa</td>
   </tr>
  <tr>
+   <td>5</td>
     <td>22.05</td>
-    <td></td>
     <td>Estymacja punktowa i przedziałowa 2</td>
   </tr>
  <tr>
+    <td>6</td>
     <td>29.05</td>
-    <td></td>
     <td>Weryfikacja hipotez</td>
   </tr>
  <tr>
+    <td>7</td>
     <td>05.06</td>
-    <td></td>
     <td>Weryfikacja hipotez 2</td>
   </tr>
 <tr>
+    <td>8</td>
     <td>12.06</td>
-    <td></td>
     <td>Testowanie zgodności, jednorodności i niezależności </td>
   </tr>
 </tbody>
