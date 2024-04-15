@@ -26,7 +26,7 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
    <tr>
     <td>2</td>
     <td>17.04</td>
-    <td>Statystyka opisowa</td>
+    <td><a href="https://github.com/kozaka93/2024L-MathematicalStatistics/tree/main/lab02">Statystyka opisowa</a></td>
   </tr>
   <tr>
     <td>3</td>
