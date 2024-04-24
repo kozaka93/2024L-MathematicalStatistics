@@ -12,7 +12,7 @@
 
 # Zadanie 6 ---------------------------------------------------------------
 
-samochody <- read.csv("http://pages.mini.pw.edu.pl/~grzegorzewskip/www/?download=samochody.csv")
+samochody <- read.csv2("http://pages.mini.pw.edu.pl/~grzegorzewskip/www/?download=samochody.csv")
 
 # a)
 
