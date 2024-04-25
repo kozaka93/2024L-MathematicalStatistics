@@ -36,7 +36,7 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
  <tr>
     <td>4</td>
     <td>08.05</td>
-    <td>Estymacja punktowa i przedziałowa</td>
+    <td><a href="https://github.com/kozaka93/2024L-MathematicalStatistics/tree/main/lab04">Estymacja punktowa i przedziałowa</a></td>
   </tr>
  <tr>
    <td>5</td>
